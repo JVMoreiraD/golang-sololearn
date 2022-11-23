@@ -1,0 +1,6 @@
+go 1.19
+
+use (
+	./getting-started/practice01
+	./getting-started/practice03
+)
